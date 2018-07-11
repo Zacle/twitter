@@ -1,6 +1,6 @@
 Video Link: https://www.youtube.com/watch?v=BBdDWn-kQNs
 
-This is my project onusing Twitter API to get tweets and using them within my application
+This is my project on using Twitter API to get tweets and using them within my application
 
 This application allows the user to specify keywords of interest, and monitors tweets from a service that samples Twitter in
 real time (or replays tweets that were previously recorded). It also plots the location of the user the originated the tweet
