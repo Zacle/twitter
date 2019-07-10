@@ -1,4 +1,4 @@
-Video Link: https://www.youtube.com/watch?v=BBdDWn-kQNs
+## Video Link: https://www.youtube.com/watch?v=BBdDWn-kQNs
 
 This is my project on using Twitter API to get tweets and using them within my application
 
@@ -6,8 +6,7 @@ This application allows the user to specify keywords of interest, and monitors t
 real time (or replays tweets that were previously recorded). It also plots the location of the user the originated the tweet
 on a map of the world. To do this, the app makes use of an existing geographical mapping library and the Twitter API.x
 
-Requirements
-------------
+## Requirements
 
 Sign up as a Twitter developer
 
@@ -36,8 +35,8 @@ b) https://svn.openstreetmap.org/applications/viewer/jmapviewer/releases/2.3/JMa
 JMapViewer.jar
 
 
-Run the application
--------------------
+## Run the application
+
 Without making any changes to the code (other than the above steps), run the application (the main method is in ui/Application).
 After a few seconds, you should see a control panel on the left containing some buttons and text boxes that you can interact
 with to specify queries against the incoming tweets, and a map of the world on the right. The map should be zoomable
